@@ -1,6 +1,12 @@
 
 # [INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink!
 
+* [[INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink! | Polkadot-Network Funded Issue Detail | Gitcoin | Gitcoin](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935)
+
+![](https://i.imgur.com/s7cpha7.png)
+
+---
+
 ![](https://i.imgur.com/3BjZXSe.png)
 
 ![](https://i.imgur.com/OyriREQ.png)
